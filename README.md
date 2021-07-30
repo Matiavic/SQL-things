@@ -1,2 +1,2 @@
-# SQL-things
-practice
+Data analysis with Tableau (Udemy)
+Tool: Microsoft SQL server
